@@ -1,0 +1,160 @@
+aid: amentum
+name: Amentum
+description: >-
+  Amentum Holdings, Inc. (NYSE: AMTM) is a global advanced engineering and
+  technology solutions company serving U.S. federal customers across defense,
+  intelligence, energy, space, and civilian missions, with allied work in the
+  United Kingdom and Australia. The company was created from the spin-off of
+  AECOM's Management Services business in 2020, and on September 27, 2024
+  completed a Reverse Morris Trust transaction with Jacobs Solutions to merge
+  Jacobs' Critical Mission Solutions (CMS) and Cyber & Intelligence (C&I)
+  businesses into Amentum. Post-merger Amentum reports approximately $14.4
+  billion in fiscal year 2025 revenue, a $47.1 billion backlog, ~53,000
+  employees in 80 countries, and is headquartered in Chantilly, Virginia. The
+  business is organized around six capability areas — Mission Modernization &
+  Sustainment, Space Systems, Digital Transformation, Sustainability &
+  Environment, Advanced Energy Solutions, and Data Analytics & Cyber. Most
+  delivery occurs under contract through classified, CAC-gated, or program
+  portals; no public developer portal, OpenAPI, or REST API has been
+  identified.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Federal Services
+  - Defense IT
+  - National Security
+  - Intelligence
+  - Space Systems
+  - Nuclear
+  - Energy
+  - Environmental Services
+  - Engineering Services
+  - Cyber
+  - Digital Transformation
+  - Government Contractor
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/amentum/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.amentum.com
+  - type: About
+    url: https://www.amentum.com/about-us
+  - type: Newsroom
+    url: https://www.amentum.com/news
+  - type: Blog
+    url: https://www.amentum.com/news
+  - type: Careers
+    url: https://www.amentumcareers.com
+  - type: InvestorRelations
+    url: https://investors.amentum.com
+  - type: SECFilings
+    url: https://investors.amentum.com/financials/sec-filings/
+  - type: Contact
+    url: https://www.amentum.com/contact-us
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/amentum
+  - type: X
+    url: https://twitter.com/amentum_corp
+  - type: YouTube
+    url: https://www.youtube.com/@amentumcorp
+  - type: PrivacyPolicy
+    url: https://www.amentum.com/privacy-policy
+  - type: TermsOfService
+    url: https://www.amentum.com/terms-of-use
+  - type: Features
+    data:
+      - name: Mission Modernization & Sustainment
+        description: >-
+          Lifecycle engineering, operations, training, logistics, and
+          sustainment support for U.S. and allied military, intelligence, and
+          mission customers across air, land, sea, space, and cyber domains.
+      - name: Space Systems
+        description: >-
+          Mission systems and ground operations for civil and national security
+          space, including prime contracting on NASA's Exploration Ground
+          Systems Program at Kennedy Space Center supporting the Artemis
+          program.
+      - name: Digital Transformation
+        description: >-
+          IT modernization, cloud migration, software engineering, data
+          platforms, and managed services for defense, intelligence, and
+          civilian agencies.
+      - name: Sustainability & Environment
+        description: >-
+          Environmental remediation, climate resilience, hazardous waste, and
+          munitions response work for federal and state environmental missions.
+      - name: Advanced Energy Solutions
+        description: >-
+          Nuclear, clean energy, and energy infrastructure engineering,
+          including Owner's Engineer roles for new Small Modular Reactor
+          programs and support to national laboratories.
+      - name: Data Analytics & Cyber
+        description: >-
+          Mission cyber, intelligence analytics, AI/ML, and offensive and
+          defensive cyber capabilities inherited from Jacobs' Cyber &
+          Intelligence portfolio.
+  - type: Customers
+    data:
+      - name: U.S. Department of Defense
+        description: >-
+          Army, Air Force, Navy & Marine Corps, and Special Operations Command
+          across CONUS and forward-deployed locations.
+      - name: U.S. Intelligence Community
+        description: >-
+          Mission systems, analytics, linguistics, and cyber programs for the
+          intelligence enterprise.
+      - name: NASA
+        description: >-
+          Prime contractor for NASA's Exploration Ground Systems Program at
+          Kennedy Space Center, supporting the Artemis program including
+          Artemis II launch and recovery.
+      - name: U.S. Department of Energy
+        description: >-
+          Engineering, operations, and environmental work at national
+          laboratories including Lawrence Livermore National Laboratory and
+          Idaho National Laboratory.
+      - name: U.S. Department of Homeland Security
+        description: >-
+          USCIS biometrics services at 130 USCIS locations across the United
+          States and its territories.
+      - name: U.S. Allies
+        description: >-
+          United Kingdom MoD (including Owner's Engineer role for the UK's
+          first Small Modular Reactors), Australian Defence Force, and other
+          partner-nation programs.
+      - name: U.S. Civilian Agencies
+        description: >-
+          State, civilian, and emergency response customers including a
+          $425 million CAL FIRE aerial firefighting operations support
+          contract.
+  - type: Compliance
+    data:
+      - name: U.S. Government Security Clearance
+        description: >-
+          Personnel hold U.S. government security clearances up to TS/SCI with
+          polygraph as required by program. Personnel security policies cover
+          drug abstinence windows prior to clearance application.
+      - name: Federal Contracting
+        description: >-
+          Operates under Federal Acquisition Regulation (FAR) and Defense FAR
+          Supplement (DFARS) including cybersecurity, supply chain, and
+          accounting compliance for U.S. federal contracts.
+  - type: Subsidiaries
+    data:
+      - name: Amentum Technology, Inc.
+        description: >-
+          Formerly Jacobs Technology Inc. / Jacobs Technology Group; renamed
+          following the 2024 merger.
+      - name: Amentum Digital Infrastructure, Inc.
+        description: >-
+          Formerly Jacobs Telecommunications Inc.; renamed following the 2024
+          merger.
+  - type: Headquarters
+    url: https://www.amentum.com/contact-us
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

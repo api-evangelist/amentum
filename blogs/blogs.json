@@ -2,6 +2,13 @@
   "repo": "amentum",
   "feeds": [
     {
+      "source": "https://www.amentum.com/feed/",
+      "feed_url": "https://www.amentum.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://www.amentum.com/news",
       "feed_url": "https://www.amentum.com/feed/",
       "title": "",
@@ -10,5 +17,5 @@
     }
   ],
   "post_count": 1,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:03:07Z"
 }
